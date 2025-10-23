@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
+
+#css{
+    font-size: 36px;
+    color: salmon;
+    font-weight: bold;
+}
+
+#fundo{
+    background-color: lightskyblue;
+    font-size: large;
+    font-weight: bolder;
+}
+
+#borda {
+    border: solid;
+    border-color: olive;
+    font-size: 32px;
+}
+
+#mistura {
+    border: 2px solid olive;
+    font-size: 32px;
+    color: seagreen;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#mistura2 {
+    background-color: slateblue;
+    font-size: 72px;
+    font-weight: bolder;
+    font-style: italic;
+    border-color: olive;
+    color: tomato;
+    text-decoration: underline;
+}
